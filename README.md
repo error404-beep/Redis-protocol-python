@@ -1,5 +1,6 @@
 # Redis-protocol-python
-A simple server script that accepts and interacts using the [Redis Protocol](https://redis.io). 
+A simple server script that accepts and interacts using the [Redis Protocol](https://redis.io).
+This was made to complete the CodeCraftors' [Build your own Redis](https://codecrafters.io/challenges) challenge.
 
 ## How to use
 * Run the _server.py_ script in a new terminal
